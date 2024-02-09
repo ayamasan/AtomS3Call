@@ -2,7 +2,6 @@
 
 #include <M5AtomS3.h>
 #include <WiFi.h>
-#include <WiFiClient.h>
 #include <WebServer.h>
 
 WebServer server(80);
